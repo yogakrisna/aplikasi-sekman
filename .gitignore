@@ -1,0 +1,17 @@
+# Ignore hasil compile
+
+*.class
+*.jar
+
+# Ignore Maven
+target
+
+
+# Ignore IDEA
+.idea
+*.iml
+
+# Ignore Eclipse
+.project
+.settings
+.classpath
