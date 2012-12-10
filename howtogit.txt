@@ -1,0 +1,16 @@
+
+1. buat forlder kosong
+
+2. inisialisasi repository local
+	git init
+3. membuat ignore file (.gitignore)
+
+4. setup username dan email
+
+	git config --global user.email "yogakrisna11@gmail.com"
+	git config --global user.name "yoga krisna"
+
+5. commit (save) ke repository local
+
+git add
+git commit -m "commit pertama"
